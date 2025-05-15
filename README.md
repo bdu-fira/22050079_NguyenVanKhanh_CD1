@@ -1,4 +1,7 @@
- Hướng dẫn khởi động dự án
+ 
+Hướng dẫn khởi động dự án
+[backend sử dụng Django.
+frontend sử dụng React + Vite.]
 
 1. Tạo cơ sở dữ liệu
 
